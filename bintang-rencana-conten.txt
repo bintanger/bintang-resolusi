@@ -1,5 +1,7 @@
 rencana konten bintang
 
 javascript
+  *sintaks baru
+  *framework
 php
 github
