@@ -3,5 +3,6 @@ rencana konten bintang
 javascript
   *sintaks baru
   *framework
+struktur data
 php
 github
